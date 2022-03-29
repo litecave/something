@@ -329,10 +329,10 @@ hr {
 	.text {
 		font-size: 12px;
 		white-space: pre-line;
-		max-width: 90%;
+		max-width: 340px;
 	}
 	.container {
-		max-width: 90%;
+		max-width: 340px;
 	}
 	.card-box {
 		flex-wrap: wrap;
